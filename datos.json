@@ -1,0 +1,9 @@
+[
+    {"nombre": "What","desc":"¿Qué hace allí? Alguien saquelo","precio": 500,"img": "img/prod/bolacristal.jpg"},
+    {"nombre": "Calcetines","desc":"Pa' tus patas","precio": 300,"img": "img/prod/calcetines.jpg"},
+    {"nombre": "UN DINOSAURIO","desc":"Esta bien chido, miralo","precio": 8000,"img": "img/prod/cooldinosaur.jpg"},
+    {"nombre": "No sé que es eso","desc":"En verdad, ¿qué son esas cosas?","precio": 8,"img": "img/prod/funnygnomes.jpg"},
+    {"nombre": "Un pino","desc":"Es un árbol, eso es todo","precio": 15000,"img": "img/prod/pino-eldarica.jpg"},
+    {"nombre": "Cascanueces","desc":"Muerden, aguas","precio": 800,"img": "img/prod/quemiedo.jpg"},
+    {"nombre": "Taza térmica","desc":"Mantiene tus bebidas calientes","precio": 400,"img": "img/prod/tazacaliente.jpg"}
+]

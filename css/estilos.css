@@ -1,0 +1,59 @@
+header {
+    color: whitesmoke;
+    font-family:'Times New Roman', Times, serif ;
+    background-color: rgb(211, 33, 20);
+}
+
+body {
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(255, 118, 118),rgb(242, 180, 180))
+}
+
+footer {
+    color: whitesmoke;
+    background-color: rgb(211, 33, 20);;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.card{
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px rgb(255, 0, 0);
+}
+
+.image{
+    height: 200px;
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 6rem;
+}
+
+.titulo{
+    font-family: 'chrisma';
+}
+
+.textoTabla{
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    box-shadow: 0 0 10px rgb(255, 0, 0);
+}
+
+@font-face {
+    font-family: 'chrisma';
+    src: url(AmoreChristmas.otf) format(otf); 
+}
