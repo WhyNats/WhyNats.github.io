@@ -1,0 +1,53 @@
+/* Estilo general */
+#fondo {
+    background-color: #FFECC3; 
+}
+
+/* Header */
+header h1 {
+    color: #ffffff;
+}
+
+#header {
+    background-color:#FFCD60;
+    padding-bottom:60px;
+}
+
+#nav{
+    font-size: 20px;
+}
+
+#navtext{
+    color: #000000;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/* Footer */
+#div1 {
+    background-color: #CA9522;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+#formCliente{
+    font-size: 18px;
+}
+
+.form-label{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 48px;
+}
+
+p{
+    font-size: 24px;
+}
+
+ul{
+    font-size: 24px;
+}
